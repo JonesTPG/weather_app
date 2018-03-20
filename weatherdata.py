@@ -131,6 +131,8 @@ def vertailugraafi(lista):
             elif i == 29:
                 tiedosto.write(str(round((30-float(vertailulista[i].keskilampotila))*10)))                
         print("Svg-ja csv-tiedostojen kirjoitus onnistui.")
+
+########################
     
 #######################################################################        
 #pääohjelmankin toiminnallisuus voitaisiin pakata aliohjelmaan, mutta
