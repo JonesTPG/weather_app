@@ -1,0 +1,6 @@
+Kuukauden säätilasto kaupungissa Lappeenranta
+*******************************************************
+Kuukauden lämpötilan keskiarvo: 4.8 celsiusastetta.
+Kuukauden lämpötilan minimi: -4.2 celsiusastetta.
+Kuukauden lämpötilan maksimi: 15.0 celsiusastetta.
+*******************************************************
